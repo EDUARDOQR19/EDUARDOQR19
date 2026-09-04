@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-labelledby="title desc">
+  <title id="title">Inteligencia artificial para perfeccionar la automatización BIM</title>
+  <desc id="desc">Visual statement about AI-enhanced engineering automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071421"/>
+      <stop offset=".62" stop-color="#102A42"/>
+      <stop offset="1" stop-color="#30245B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#29D8FF"/><stop offset=".5" stop-color="#70FFD4"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="halo"><stop stop-color="#63E8FF" stop-opacity=".22"/><stop offset="1" stop-color="#63E8FF" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="1280" height="250" rx="22" fill="url(#bg)"/>
+  <circle cx="180" cy="125" r="145" fill="url(#halo)"/>
+  <path d="M0 213C122 165 183 237 296 193s178-27 279 6" fill="none" stroke="#67C8D9" stroke-opacity=".1" stroke-width="2"/>
+
+  <g transform="translate(44 18)">
+    <circle cx="136" cy="107" r="68" fill="#0A2234" stroke="url(#line)" stroke-width="2"/>
+    <circle cx="136" cy="107" r="88" fill="none" stroke="#70FFD4" stroke-opacity=".12" stroke-dasharray="3 8"/>
+    <g stroke="#6DE7EE" stroke-opacity=".5" stroke-width="1.5">
+      <line x1="136" y1="39" x2="136" y2="8"/><line x1="199" y1="81" x2="233" y2="67"/>
+      <line x1="194" y1="150" x2="230" y2="172"/><line x1="78" y1="150" x2="43" y2="172"/>
+      <line x1="73" y1="81" x2="39" y2="66"/><line x1="136" y1="175" x2="136" y2="207"/>
+    </g>
+    <g fill="#081827" stroke-width="3">
+      <circle cx="136" cy="8" r="8" stroke="#29D8FF"/><circle cx="233" cy="67" r="8" stroke="#70FFD4"/>
+      <circle cx="230" cy="172" r="8" stroke="#A78BFA"/><circle cx="43" cy="172" r="8" stroke="#FFB86B"/>
+      <circle cx="39" cy="66" r="8" stroke="#4FC3F7"/><circle cx="136" cy="207" r="8" stroke="#64E3B2"/>
+    </g>
+    <text x="136" y="100" fill="#A6F5FF" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="3">AI</text>
+    <text x="136" y="129" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="850" text-anchor="middle">× BIM</text>
+  </g>
+
+  <g transform="translate(356 48)">
+    <text fill="#79F6D8" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" letter-spacing="2.4">AUTOMATION, AUGMENTED</text>
+    <text y="42" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">Inteligencia artificial para perfeccionar</text>
+    <text y="78" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">las automatizaciones BIM</text>
+    <text y="113" fill="#B9CEDB" font-family="Segoe UI,Arial,sans-serif" font-size="15">Potenciamos el desarrollo con IA para elevar precisión, calidad y evolución continua,</text>
+    <text y="137" fill="#B9CEDB" font-family="Segoe UI,Arial,sans-serif" font-size="15">manteniendo el criterio ingenieril en el centro de cada solución.</text>
+    <rect y="159" width="652" height="3" rx="2" fill="url(#line)" opacity=".85" filter="url(#glow)"/>
+  </g>
+</svg>
