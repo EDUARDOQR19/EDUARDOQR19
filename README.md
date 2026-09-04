@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Pedro Eduardo Quispe Ramírez — Civil Engineer and BIM Developer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Pedro Eduardo Quispe Ramírez — Civil Engineer, BIM and Automation Developer" />
 
-### Convierto procesos de ingeniería civil en herramientas digitales para diseñar mejor, más rápido y con mayor control.
+<br />
+
+### Ingeniería civil, BIM, desarrollo de software e inteligencia artificial en un mismo perfil.
 
 <p>
-  <img src="https://img.shields.io/badge/Ingeniería_Civil-UNI-0B2239?style=for-the-badge" alt="Ingeniería Civil UNI" />
-  <img src="https://img.shields.io/badge/BIM-Infraestructura-00A7C4?style=for-the-badge" alt="BIM para infraestructura" />
-  <img src="https://img.shields.io/badge/Civil_3D-API-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Civil 3D API" />
-  <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET C#" />
+  <img src="https://img.shields.io/badge/INGENIERO_CIVIL-UNI-0B2239?style=for-the-badge" alt="Ingeniero Civil UNI" />
+  <img src="https://img.shields.io/badge/BIM-INFRAESTRUCTURA-00A7C4?style=for-the-badge" alt="BIM para infraestructura" />
+  <img src="https://img.shields.io/badge/CIVIL_3D_+_REVIT-DESARROLLO_API-186BFF?style=for-the-badge" alt="Civil 3D y Revit API" />
+  <img src="https://img.shields.io/badge/AI-ENHANCED_AUTOMATION-7C3AED?style=for-the-badge" alt="AI Enhanced Automation" />
 </p>
 
-**Ingeniero Civil · BIM Developer · Desarrollador de automatizaciones para Autodesk Civil 3D**
+**Ingeniero Civil · BIM Developer · Autodesk API Developer · Automation & AI**
 
-*Civil Engineer building software for BIM and infrastructure.*
+*Civil Engineer creating intelligent digital solutions for BIM and infrastructure.*
 
 </div>
 
@@ -21,93 +23,160 @@
 
 ## 👋 Hola, soy Eduardo
 
-Soy **Pedro Eduardo Quispe Ramírez**, Ingeniero Civil formado en la **Universidad Nacional de Ingeniería — UNI, Perú**. Mi trabajo vive en la intersección entre la ingeniería de infraestructura, el modelado BIM y el desarrollo de software.
+Soy **Pedro Eduardo Quispe Ramírez**, Ingeniero Civil formado en la **Universidad Nacional de Ingeniería — UNI, Perú**, apasionado por unir el criterio de la ingeniería con el poder de la programación.
 
-Me especializo en **topografía y diseño geométrico de infraestructura vial y aeroportuaria**. Además de modelar, desarrollo soluciones con la **API de Autodesk Civil 3D**, **C# y .NET** para transformar operaciones manuales y repetitivas en flujos confiables, trazables y reutilizables.
+Estoy enfocado en **BIM para infraestructura**, topografía, diseño geométrico y desarrollo de automatizaciones sobre las APIs de **Autodesk Civil 3D** y **Autodesk Revit**. Creo herramientas digitales con **C#, .NET y Python**, conectando modelos BIM, información geoespacial y análisis de datos.
 
-> **No solo modelo infraestructura: construyo las herramientas que ayudan a modelarla.**
+Integramos **inteligencia artificial para perfeccionar las automatizaciones**, elevar su precisión, consistencia y calidad, manteniendo siempre el criterio ingenieril como núcleo de cada solución.
 
-## 🧭 Mi diferencial: ingeniería + software
+> ### No solo utilizo software para diseñar infraestructura: desarrollo tecnología para transformar cómo la diseñamos.
 
-| Ingeniería civil y BIM | Desarrollo y automatización |
-|---|---|
-| Alineamientos, perfiles y rasantes | Plugins nativos para Civil 3D |
-| Corredores, ensamblajes y subensamblajes | C# · .NET · AutoCAD/Civil 3D API |
-| Superficies TIN, grading y movimiento de tierras | Interfaces WPF con arquitectura MVVM |
-| Secciones, metrados y análisis geométrico | Dynamo y Python para automatización BIM |
-| Topografía, COGO Points y reconstrucción geométrica | Algoritmos, validaciones y procesamiento de datos |
-| Coordinación BIM de infraestructura | Git, GitHub y flujos de desarrollo en Visual Studio |
+## ✦ Áreas de enfoque
 
-## 🛠️ Tecnologías que utilizo
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>🏗️</h2>
+      <strong>BIM para infraestructura</strong><br />
+      <sub>Modelado y coordinación digital para proyectos civiles.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>⚙️</h2>
+      <strong>Autodesk API Development</strong><br />
+      <sub>Automatizaciones nativas para Civil 3D y Revit.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🧠</h2>
+      <strong>AI-Enhanced Automation</strong><br />
+      <sub>IA aplicada al perfeccionamiento de soluciones técnicas.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🌐</h2>
+      <strong>Data, BI & GIS</strong><br />
+      <sub>Información técnica convertida en conocimiento útil.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="./assets/ai-automation.svg" width="100%" alt="Inteligencia artificial para perfeccionar las automatizaciones BIM" />
+
+## ✦ Ecosistema tecnológico
+
+### Autodesk & BIM
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="48" alt="Autodesk" /><br />
+      <strong>Civil 3D</strong><br /><sub>.NET API</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/autocad/E51050" height="48" alt="AutoCAD" /><br />
+      <strong>AutoCAD</strong><br /><sub>.NET API</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/autodesk/70B344" height="48" alt="Autodesk InfraWorks" /><br />
+      <strong>InfraWorks</strong><br /><sub>Infraestructura conceptual</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/autodesk/F97316" height="48" alt="Autodesk ReCap Pro" /><br />
+      <strong>ReCap Pro</strong><br /><sub>Reality capture</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/autodeskrevit/186BFF" height="48" alt="Autodesk Revit" /><br />
+      <strong>Revit</strong><br /><sub>.NET API</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamo-Visual_Programming-F7A81B?style=flat-square" alt="Dynamo" />
+  <img src="https://img.shields.io/badge/Subassembly_Composer-Custom_PKT-7C3AED?style=flat-square" alt="Subassembly Composer" />
+  <img src="https://img.shields.io/badge/BIM-Infraestructura-00A7C4?style=flat-square" alt="BIM Infraestructura" />
+</p>
+
+### Development & Automation
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C Sharp" /><br />
+      <strong>C#</strong><br /><sub>Lenguaje principal</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/dotnet/512BD4/A78BFA" height="48" alt=".NET" /><br />
+      <strong>.NET</strong><br /><sub>Plugins y aplicaciones</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/python/3776AB/FFD43B" height="48" alt="Python" /><br />
+      <strong>Python</strong><br /><sub>Automatización y datos</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="48" alt="Visual Studio" /><br />
+      <strong>Visual Studio</strong><br /><sub>Development IDE</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" height="48" alt="GitHub" /><br />
+      <strong>GitHub</strong><br /><sub>Version control</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WPF-Desktop_Apps-512BD4?style=flat-square&logo=windows&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/MVVM-Architecture-0B5CAD?style=flat-square" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/OpenAI-AI_Assisted-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
+### Data, Business Intelligence & GIS
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="./assets/excel.svg" height="48" alt="Microsoft Excel" /><br />
+      <strong>Excel</strong><br /><sub>Datos técnicos</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Microsoft Power BI" /><br />
+      <strong>Power BI</strong><br /><sub>Visualización</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/qgis/589632/9BD152" height="48" alt="QGIS" /><br />
+      <strong>QGIS</strong><br /><sub>Open-source GIS</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/arcgis/2C7AC3/5CC8FF" height="48" alt="ArcGIS" /><br />
+      <strong>ArcGIS</strong><br /><sub>Geospatial platform</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.simpleicons.org/arcgis/007AC2/5CC8FF" height="48" alt="ArcMap" /><br />
+      <strong>ArcMap</strong><br /><sub>Cartografía y análisis</sub>
+    </td>
+  </tr>
+</table>
+
+## ✦ Mi visión
+
+Desarrollar una ingeniería más conectada, visual e inteligente, donde **BIM, APIs, datos e inteligencia artificial** trabajen juntos para impulsar soluciones de infraestructura con mayor valor técnico.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Autodesk_Civil_3D-37A5CC?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Civil 3D" />
-<img src="https://img.shields.io/badge/AutoCAD_.NET_API-E51050?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD .NET API" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-<img src="https://img.shields.io/badge/WPF-68217A?style=flat-square&logo=windows&logoColor=white" alt="WPF" />
-<img src="https://img.shields.io/badge/MVVM-0B5CAD?style=flat-square" alt="MVVM" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Dynamo-F7A81B?style=flat-square&logo=autodesk&logoColor=white" alt="Dynamo" />
-<img src="https://img.shields.io/badge/Revit_API-186BFF?style=flat-square&logo=autodesk&logoColor=white" alt="Revit API" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+### Engineering the model · Coding the workflow · Enhancing automation with AI
 
-</div>
+<br />
 
-## 🚧 Lo que construyo
-
-| Solución | Qué problema resuelve | Tecnologías |
-|---|---|---|
-| **Corridor Section Viewer** | Inspección y análisis interactivo de secciones de corredores y superficies | Civil 3D API · C# · WPF |
-| **Surface Topology Tracer** | Reconstrucción de líneas características desde XYZ y triangulación de superficies TIN | Geometría computacional · .NET |
-| **Corridor & Baseline Toolkit** | Clonado y gestión de baselines, regiones, targets, frecuencias y assemblies | Civil 3D API · C# |
-| **COGO Channel Axis Analyzer** | Detección de secciones topográficas y generación automática del eje 3D de canales | COGO Points · Algoritmos · WPF |
-| **Custom Subassemblies** | Lógica paramétrica para soluciones viales y aeroportuarias especializadas | Subassembly Composer |
-| **BIM Automation Workflows** | Reducción de tareas repetitivas, control de calidad y procesamiento de información | Dynamo · Python · C# |
-
-## ⚙️ Así convierto una necesidad técnica en una solución
-
-```mermaid
-flowchart LR
-    A["Datos del modelo"] --> B["Criterio ingenieril"]
-    B --> C["Algoritmo"]
-    C --> D["Herramienta .NET"]
-    D --> E["Modelo BIM validado"]
-```
-
-Mi enfoque parte del problema real del proyectista: primero entiendo la geometría, las reglas de diseño y el flujo de trabajo; después construyo una herramienta que pueda probarse dentro del entorno donde el ingeniero trabaja.
-
-## 🔬 En qué estoy enfocado
-
-- Desarrollo de **comandos y extensiones nativas para Autodesk Civil 3D**.
-- Automatización de **corredores, superficies, secciones, topografía y metrados**.
-- Reconstrucción geométrica a partir de **TinSurface, XYZ y triangulación**, incluso cuando no existen breaklines originales.
-- Interfaces profesionales en **WPF/MVVM** para acercar algoritmos complejos al usuario técnico.
-- Integración de **BIM, programación e inteligencia artificial**.
-- Exploración de **agentes de IA, OpenAI API y MCP** aplicados a flujos de ingeniería.
-
-## 🎯 Mi visión
-
-Impulsar una forma de hacer ingeniería donde el criterio técnico del profesional se combine con software especializado. El objetivo no es automatizar por automatizar: es **reducir errores, recuperar tiempo de ingeniería y tomar mejores decisiones sobre el modelo**.
-
-<div align="center">
-
-### ¿Construimos el futuro de la infraestructura digital?
-
-Estoy abierto a colaborar en **Civil 3D, BIM para infraestructura, herramientas .NET, automatización y geometría computacional**.
-
-<a href="https://github.com/EDUARDOQR19?tab=repositories">
-  <img src="https://img.shields.io/badge/Explorar_mi_trabajo-EDUARDOQR19-00A7C4?style=for-the-badge&logo=github&logoColor=white" alt="Explorar el trabajo de EDUARDOQR19" />
-</a>
-<a href="https://github.com/EDUARDOQR19/EDUARDOQR19/issues/new">
-  <img src="https://img.shields.io/badge/Hablemos-Abrir_conversación-80FFDB?style=for-the-badge&logo=github&logoColor=07111F" alt="Abrir una conversación" />
+<a href="https://github.com/EDUARDOQR19">
+  <img src="https://img.shields.io/badge/CONECTEMOS-EDUARDOQR19-00A7C4?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de EDUARDOQR19" />
 </a>
 
 <br /><br />
 
-<sub><strong>Engineering the model. Coding the workflow. Automating the future.</strong></sub>
+<sub>
+Autodesk, AutoCAD, Civil 3D, InfraWorks, ReCap y Revit son marcas de Autodesk, Inc.<br />
+Perfil profesional independiente, no afiliado ni patrocinado por Autodesk, Microsoft, Esri u OpenAI.
+</sub>
 
 </div>
