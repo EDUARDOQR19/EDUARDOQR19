@@ -31,6 +31,46 @@ Integramos **inteligencia artificial para perfeccionar las automatizaciones**, e
 
 > ### No solo utilizo software para diseñar infraestructura: desarrollo tecnología para transformar cómo la diseñamos.
 
+<div align="center">
+
+## Transformo ingeniería compleja en automatización inteligente.
+
+### Menos repetición · Más precisión · Más control · Más tiempo para diseñar
+
+Combino **conocimiento técnico, BIM y desarrollo de software** para convertir desafíos reales de ingeniería en soluciones digitales con impacto.
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>🚀</h2>
+      <strong>MÁS PRODUCTIVIDAD</strong><br />
+      <sub>Automatizaciones que liberan tiempo valioso del equipo técnico.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🎯</h2>
+      <strong>MÁS CONFIANZA</strong><br />
+      <sub>Mayor consistencia y control sobre la información del modelo.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🧩</h2>
+      <strong>SOLUCIONES A MEDIDA</strong><br />
+      <sub>Tecnología alineada con las necesidades de cada flujo BIM.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>📈</h2>
+      <strong>MÁS VALOR DIGITAL</strong><br />
+      <sub>BIM, datos, GIS e IA trabajando como un solo ecosistema.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>Una combinación difícil de encontrar:</strong><br />
+  <em>criterio de ingeniería civil + dominio BIM + capacidad de desarrollar software.</em>
+</p>
+
 ## ✦ Áreas de enfoque
 
 <table>
@@ -164,12 +204,19 @@ Desarrollar una ingeniería más conectada, visual e inteligente, donde **BIM, A
 
 <div align="center">
 
-### Engineering the model · Coding the workflow · Enhancing automation with AI
+### ¿Tu equipo está listo para llevar su flujo BIM al siguiente nivel?
+
+Si buscas reducir tareas repetitivas, conectar mejor la información técnica o convertir una necesidad de ingeniería en una herramienta digital, **conversemos**.
+
+#### Engineering the model · Coding the workflow · Enhancing automation with AI
 
 <br />
 
+<a href="https://github.com/EDUARDOQR19/EDUARDOQR19/issues/new?title=Contacto%20profesional">
+  <img src="https://img.shields.io/badge/HABLEMOS-DE_AUTOMATIZACIÓN-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Hablemos de automatización" />
+</a>
 <a href="https://github.com/EDUARDOQR19">
-  <img src="https://img.shields.io/badge/CONECTEMOS-EDUARDOQR19-00A7C4?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de EDUARDOQR19" />
+  <img src="https://img.shields.io/badge/CONECTAR-EDUARDOQR19-00A7C4?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de EDUARDOQR19" />
 </a>
 
 <br /><br />
